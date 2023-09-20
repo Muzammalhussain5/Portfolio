@@ -286,12 +286,13 @@ body{
     
    }
    .home-sci {
-    top: 100%;
-    margin-top: 10px;
+    top: 95%;
+    margin-top: 20px;
     margin-bottom: 20px;
     
 }
 }
 .btn-box{
+    margin-bottom: 20px;
     margin-right: 20px ;
 }
